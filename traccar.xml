@@ -13,7 +13,7 @@
     <entry key='database.driver'>com.mysql.jdbc.Driver</entry>
     <entry key='database.url'>jdbc:mysql://localhost/traccar?allowMultiQueries=true&amp;autoReconnect=true&amp;useUnicode=yes&amp;characterEncoding=UTF-8&amp;sessionVariables=sql_mode=''</entry>
     <entry key='database.user'>root</entry>
-    <entry key='database.password'>root</entry>
+    <entry key='database.password'>123456</entry>
     
     <entry key='server.timeout'>120</entry>
 
